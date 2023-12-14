@@ -10,7 +10,7 @@
 <br>
 <br>
 
-> This project aims to propose a chess game on the console, based on concepts such as object-oriented programming and the interpretation of modeling projects with UML.  
+> This project aims to propose a chess game on the console, based on concepts such as object-oriented programming and the interpretation of modeling projects with UML™ (Unified Modeling Language™).  
 
 <br>
 <br>
