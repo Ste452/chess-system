@@ -10,7 +10,20 @@
 <br>
 <br>
 
-> This project aims to propose a chess game on the console, based on concepts such as object-oriented programming and the interpretation of modeling projects with UML.  
+> This project aims to propose a chess game on the console, based on concepts such as object-oriented programming and the interpretation of modeling projects with UML™ (Unified Modeling Language™).  
+
+<br>
+<br>
+
+
+ ```bash
+ #Start by opening on gitBash or vs code bash
+ cd ./chess_program/bin 
+ 
+ #execute the project.
+ java application/Program
+ 
+```
 
 <br>
 <br>
@@ -20,10 +33,4 @@
 # UML Modell
 ![image](https://user-images.githubusercontent.com/47900701/219397622-af95c7c1-9663-4045-b0d7-1cf2ec6ebe7d.png)
 
-<br>
-<br>
 
-
-# Layout in console
-
-![image](https://user-images.githubusercontent.com/47900701/220191804-da384a3b-2e4a-423e-9c06-660228d6e4b0.png)
