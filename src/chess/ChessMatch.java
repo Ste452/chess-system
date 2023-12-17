@@ -75,7 +75,7 @@ public class ChessMatch {
 			throw new ChessException("The chosen piece can't move to target position");
 		}
 	}
-	
+
 	private void nextTurn() {
 		turn++;
 		currentPlayer = (currentPlayer == Color.WHITE) ? Color.BLACK : Color.WHITE;
