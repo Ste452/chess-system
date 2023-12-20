@@ -1,2 +1,0 @@
-module chess_system {
-}
