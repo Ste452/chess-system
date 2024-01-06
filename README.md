@@ -34,3 +34,14 @@
 ![image](https://user-images.githubusercontent.com/47900701/219397622-af95c7c1-9663-4045-b0d7-1cf2ec6ebe7d.png)
 
 
+<br>
+
+## Chess program in execution:
+
+
+https://github.com/Ste452/chess_program/assets/123308294/924a0b62-3692-4707-891e-1bb3062f1850
+
+
+<br>
+
+
